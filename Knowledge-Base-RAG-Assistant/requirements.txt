@@ -1,0 +1,17 @@
+# Simple RAG Document Assistant - Requirements
+# Install with: pip install -r simple_requirements.txt
+
+# Web framework
+flask
+
+# AI and machine learning
+sentence-transformers
+faiss-cpu
+groq
+
+# PDF processing
+PyPDF2
+
+# Optional: for better performance
+# torch
+# transformers
